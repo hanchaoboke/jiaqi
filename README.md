@@ -6,3 +6,12 @@ BubbleSort.c
 
 SelectionSort.c
 
+## 二分查找
+
+BinarySearch.c
+
+## 快速排序
+
+QuickSort.c
+
+未完全理解
